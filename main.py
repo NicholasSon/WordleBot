@@ -55,7 +55,7 @@ Subject: The Wordle Today
 <div><p></p></div>
 <div><p></p></div>
 <p></p>
-<div><small>Bot Made by Nicholas Son</small></div>
+<div><small>Bot Made by Deez nuts</small></div>
 <div><small style = "color: red;">If you would like to opt out of this service, please message me on Discord.</small><div>
 <div style = "font-size: 10px;">[""" + date_and_time +  """ UTC]</div>"""
   
